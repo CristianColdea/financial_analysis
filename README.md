@@ -1,5 +1,5 @@
 # Project Name
-> Financial data analysis and liniar modelGe
+> Financial data analysis and liniar model of market prediction
 
 ## Table of contents
 * [General info](#general-info)
