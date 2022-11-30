@@ -41,7 +41,7 @@ To-do list:
 * Generate a new model instance and apply it to DAX index data
 
 ## Status
-Project is: _in progress_
+Project is: __in progress_
 
 ## Inspiration
 Project based on Coursera class from University of Hong Kong
