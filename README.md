@@ -1,5 +1,5 @@
-# Project Name
-> Financial data analysis and liniar model of market prediction
+# Financial Analysis with Linear Regression 
+> Financial data analysis and linear model of market prediction
 
 ## Table of contents
 * [General info](#general-info)
